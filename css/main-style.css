@@ -1,0 +1,638 @@
+* {
+  box-sizing: border-box;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+span {
+  font-weight: 800;
+}
+.layer-b {
+  width: 20px;
+  height: 50px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  top: 30%;
+  border-left-style: solid;
+  border-top-left-radius: 60px 20px;
+  border-bottom-left-radius: 60px 20px;
+  z-index: -10;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,500&family=Poppins:ital,wght@0,100;0,600;1,500;1,600&display=swap");
+/**/
+.service {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  background-image: url(../photo/ass501.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  z-index: 10;
+}
+a {
+  color: aliceblue;
+  font-weight: 600;
+}
+.service h1 {
+  color: aliceblue;
+  margin-top: 17%;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+h2::after {
+  content: " | ";
+  animation-name: alaa;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  color: aliceblue;
+  font-weight: 700;
+}
+p {
+  font-size: 1rem;
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #0078ff;
+  font-weight: 500;
+}
+h3 {
+  font-size: 1rem;
+}
+@media (max-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    background-color: #c8cde4;
+    text-align: center;
+  }
+}
+
+@keyframes alaa {
+  /* CEO DevFolio,Web Developer,Web Designer,Frontend Developer,Graphic Designer */
+  1% {
+    content: "|";
+  }
+  2% {
+    content: "C |";
+  }
+  3% {
+    content: "CE |";
+  }
+  4% {
+    content: "CEO |";
+  }
+  5% {
+    content: "CEO D |";
+  }
+  6% {
+    content: "CEO DE |";
+  }
+  7% {
+    content: "CEO DEV |";
+  }
+  8% {
+    content: "CEO DEVF |";
+  }
+  9% {
+    content: "CEO DEVFO |";
+  }
+  10% {
+    content: "CEO DEVFOL |";
+  }
+  11% {
+    content: "CEO DEVFOLI |";
+  }
+  12% {
+    content: "CEO DEVFOLIO |";
+  }
+  13% {
+    content: "CEO DEVFOLI |";
+  }
+  14% {
+    content: "CEO DEVFOL |";
+  }
+  15% {
+    content: "CEO DEVFO |";
+  }
+  16% {
+    content: "CEO DEVF |";
+  }
+  17% {
+    content: "CEO DEV |";
+  }
+  18% {
+    content: "CEO DE |";
+  }
+  19% {
+    content: "CEO D |";
+  }
+  20% {
+    content: "CEO |";
+  }
+  21% {
+    content: "CE |";
+  }
+  22% {
+    content: "C |";
+  }
+  23% {
+    content: " |";
+  }
+  24% {
+    content: "W |";
+  }
+  25% {
+    content: "WE |";
+  }
+  26% {
+    content: "WEB |";
+  }
+  27% {
+    content: "WEB D |";
+  }
+  28% {
+    content: "WEB DE |";
+  }
+  29% {
+    content: "WEB DEV |";
+  }
+  30% {
+    content: "WEB DEVE |";
+  }
+  31% {
+    content: "WEB DEVEL |";
+  }
+  32% {
+    content: "WEB DEVELO |";
+  }
+  33% {
+    content: "WEB DEVELOP |";
+  }
+  34% {
+    content: "WEB DEVELOPE |";
+  }
+  35% {
+    content: "WEB DEVELOPER |";
+  }
+  36% {
+    content: "WEB DEVELOPE |";
+  }
+  37% {
+    content: "WEB DEVELOP |";
+  }
+  38% {
+    content: "WEB DEVELO |";
+  }
+  39% {
+    content: "WEB DEVEL |";
+  }
+  40% {
+    content: "WEB DEVE |";
+  }
+  41% {
+    content: "WEB DEV |";
+  }
+  42% {
+    content: "WEB DE |";
+  }
+  43% {
+    content: "WEB DES |";
+  }
+  44% {
+    content: "WEB DESI |";
+  }
+  45% {
+    content: "WEB DESIG |";
+  }
+  46% {
+    content: "WEB DESIGN |";
+  }
+  47% {
+    content: "WEB DESIGNE |";
+  }
+  48% {
+    content: "WEB DESIGNER |";
+  }
+  49% {
+    content: "WEB DESIGNE |";
+  }
+  50% {
+    content: "WEB DESIGN |";
+  }
+  51% {
+    content: "WEB DESIG |";
+  }
+  52% {
+    content: "WEB DESI |";
+  }
+  53% {
+    content: "WEB DES |";
+  }
+  54% {
+    content: "WEB DE |";
+  }
+  55% {
+    content: "WEB  |";
+  }
+  56% {
+    content: "WE |";
+  }
+  57% {
+    content: "W |";
+  }
+  58% {
+    content: " |";
+  }
+  59% {
+    content: "F |";
+  }
+  60% {
+    content: "FRO |";
+  }
+  61% {
+    content: "FRONT |";
+  }
+  62% {
+    content: "FRONT E |";
+  }
+  63% {
+    content: "FRONT END |";
+  }
+  64% {
+    content: "FRONT END D |";
+  }
+  65% {
+    content: "FRONT END DEV |";
+  }
+  66% {
+    content: "FRONT END DEVEL |";
+  }
+  67% {
+    content: "FRONT END DEVELOP |";
+  }
+  68% {
+    content: "FRONT END DEVELOPER |";
+  }
+  69% {
+    content: "FRONT END DEVELOP |";
+  }
+  70% {
+    content: "FRONT END DEVEL |";
+  }
+  70% {
+    content: "FRONT END DEV |";
+  }
+  72% {
+    content: "FRONT END D |";
+  }
+  73% {
+    content: "FRONT END |";
+  }
+  74% {
+    content: "FRONT  |";
+  }
+  75% {
+    content: "FRON |";
+  }
+  76% {
+    content: "FR |";
+  }
+  77% {
+    content: "F |";
+  }
+  78% {
+    content: " |";
+  }
+  /* Graphic Designer */
+  79% {
+    content: "G |";
+  }
+  80% {
+    content: "GRA |";
+  }
+  81% {
+    content: "GRAPH |";
+  }
+  82% {
+    content: "GRAPHIC |";
+  }
+  83% {
+    content: "GRAPHIC D |";
+  }
+  84% {
+    content: "GRAPHIC DES |";
+  }
+  85% {
+    content: "GRAPHIC DESIG |";
+  }
+  86% {
+    content: "GRAPHIC DESIGNE |";
+  }
+  87% {
+    content: "GRAPHIC DESIGNER |";
+  }
+  88% {
+    content: "GRAPHIC DESIGNER |";
+  }
+  89% {
+    content: "GRAPHIC DESIGN |";
+  }
+  91% {
+    content: "GRAPHIC DESI |";
+  }
+  93% {
+    content: "GRAPHIC DE |";
+  }
+  95% {
+    content: "GRAPHIC  |";
+  }
+  97% {
+    content: "GRAPHI |";
+  }
+  98% {
+    content: "GRAP |";
+  }
+  99% {
+    content: "GR |";
+  }
+  100% {
+    content: " |";
+  }
+}
+/* hover */
+
+.navbar-nav .nav-link.active:hover,
+.navbar-nav .show > .nav-link:hover {
+  border-bottom: red solid 3px;
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+
+/**/
+#about {
+  background-color: #f5f5f5;
+}
+
+.left {
+  height: fit-content;
+}
+
+.right {
+  line-height: 2.5rem;
+  padding-left: 1.5rem;
+}
+/**/
+#services {
+  background-color: #f5f5f5;
+}
+.aa {
+  background-color: #f5f5f5;
+}
+.bor {
+  width: 50px;
+  height: 5px;
+  background-color: #0078ff;
+  margin: 0 auto;
+}
+
+.ico {
+  font-size: 50px;
+  width: 100px;
+  height: 100px;
+  border: solid 4px #0078ff;
+  text-align: center;
+  border-radius: 50%;
+  /* margin-left: 10%; */
+  padding: 2px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  transition: 0.4s;
+  -webkit-transition: 0.4s;
+  -moz-transition: 0.4s;
+  -ms-transition: 0.4s;
+  -o-transition: 0.4s;
+}
+.ico:hover {
+  border: solid 9px #b0bcf6;
+  background-color: #0227df;
+  color: rgb(255, 255, 255);
+}
+@media (max-width: 992px) {
+  /* .ico {
+    margin-left: 15%;
+  } */
+}
+/**/
+#work {
+  background: url(../photo/ass503.jpg);
+  position: relative;
+  width: 100%;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+}
+.first-ico {
+  padding-top: 8%;
+}
+@media (max-width: 992px) {
+  .work-media {
+    padding: 15%;
+  }
+}
+
+.overlay-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(27, 115, 215, 0.7);
+  margin: 0;
+}
+.gg {
+  border: solid 9px #c8cde4;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.contents {
+  /* color: white; */
+  font-weight: 500;
+}
+.content-box {
+  font-weight: 500;
+  color: white;
+}
+
+/**/
+.content-i {
+  height: 15px;
+  width: 15px;
+  border: 2px solid #0078ff;
+  color: #0078ff;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.zoom {
+  transition: transform 1s;
+  -webkit-transition: transform 1s;
+  -moz-transition: transform 1s;
+  -ms-transition: transform 1s;
+  -o-transition: transform 1s;
+}
+
+.zoom:hover {
+  transform: scale(
+    1.5
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#services h3,
+#blog h3 {
+  font-weight: bold;
+}
+#blog a {
+  color: #0c0d10;
+  text-decoration: none;
+}
+.card-body span {
+  color: #0078ff;
+  font-weight: 400;
+}
+/**/
+#contact {
+  background: url(../photo/ass510.jpg);
+  position: relative;
+  width: 100%;
+  text-align: center;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.contact-i {
+  color: rgb(35, 12, 213);
+  border: solid 2px #c8cde4;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: white;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+/**/
+.pre-last h3 {
+  font-weight: bold;
+}
+/**/
+.card-footer a {
+  color: #05070a;
+  text-decoration: none;
+  font-size: 0.75rem;
+  align-items: center;
+  bottom: 0;
+}
+.footer-img img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.card-titles {
+  position: absolute;
+  width: 117px;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-image: linear-gradient(#0078ff, #0078ff);
+  border: 1px solid #0078ff;
+  border-radius: 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  direction: ltr;
+  display: block;
+  font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.022em;
+  line-height: 1.47059;
+  min-width: 30px;
+  overflow: visible;
+  padding: 4px 15px;
+  text-align: center;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  -o-transform: translateX(-50%);
+}
+.card-body {
+  position: relative;
+}
+/**/
+.footer {
+  background: url(../photo/ass510.jpg);
+  position: relative;
+}
+
+.bor-2 {
+  width: 113px;
+  height: 5px;
+  background-color: #0078ff;
+  margin-bottom: 1rem;
+}
+.footer h3 {
+  font-weight: bold;
+}
+.ends p {
+  line-height: 2rem;
+}
+
+.footer a {
+  color: #0227df;
+}
+.icon-circle {
+  width: 3rem;
+  height: 3rem;
+  border: #0227df solid 3px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  color: #05070a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.7s;
+  -webkit-transition: all 0.7s;
+  -moz-transition: all 0.7s;
+  -ms-transition: all 0.7s;
+  -o-transition: all 0.7s;
+}
+.icon-circle.ho:hover {
+  border: solid 3px #b0bcf6;
+  background-color: #0227df;
+  color: white !important;
+}
