@@ -1,0 +1,485 @@
+@keyframes alaa {
+  /* CEO DevFolio,Web Developer,Web Designer,Frontend Developer,Graphic Designer */
+  1% {
+    content: "|";
+  }
+  2% {
+    content: "C |";
+  }
+  3% {
+    content: "CE |";
+  }
+  4% {
+    content: "CEO |";
+  }
+  5% {
+    content: "CEO D |";
+  }
+  6% {
+    content: "CEO DE |";
+  }
+  7% {
+    content: "CEO DEV |";
+  }
+  8% {
+    content: "CEO DEVF |";
+  }
+  9% {
+    content: "CEO DEVFO |";
+  }
+  10% {
+    content: "CEO DEVFOL |";
+  }
+  11% {
+    content: "CEO DEVFOLI |";
+  }
+  12% {
+    content: "CEO DEVFOLIO |";
+  }
+  13% {
+    content: "CEO DEVFOLI |";
+  }
+  14% {
+    content: "CEO DEVFOL |";
+  }
+  15% {
+    content: "CEO DEVFO |";
+  }
+  16% {
+    content: "CEO DEVF |";
+  }
+  17% {
+    content: "CEO DEV |";
+  }
+  18% {
+    content: "CEO DE |";
+  }
+  19% {
+    content: "CEO D |";
+  }
+  20% {
+    content: "CEO |";
+  }
+  21% {
+    content: "CE |";
+  }
+  22% {
+    content: "C |";
+  }
+  23% {
+    content: " |";
+  }
+  24% {
+    content: "W |";
+  }
+  25% {
+    content: "WE |";
+  }
+  26% {
+    content: "WEB |";
+  }
+  27% {
+    content: "WEB D |";
+  }
+  28% {
+    content: "WEB DE |";
+  }
+  29% {
+    content: "WEB DEV |";
+  }
+  30% {
+    content: "WEB DEVE |";
+  }
+  31% {
+    content: "WEB DEVEL |";
+  }
+  32% {
+    content: "WEB DEVELO |";
+  }
+  33% {
+    content: "WEB DEVELOP |";
+  }
+  34% {
+    content: "WEB DEVELOPE |";
+  }
+  35% {
+    content: "WEB DEVELOPER |";
+  }
+  36% {
+    content: "WEB DEVELOPE |";
+  }
+  37% {
+    content: "WEB DEVELOP |";
+  }
+  38% {
+    content: "WEB DEVELO |";
+  }
+  39% {
+    content: "WEB DEVEL |";
+  }
+  40% {
+    content: "WEB DEVE |";
+  }
+  41% {
+    content: "WEB DEV |";
+  }
+  42% {
+    content: "WEB DE |";
+  }
+  43% {
+    content: "WEB DES |";
+  }
+  44% {
+    content: "WEB DESI |";
+  }
+  45% {
+    content: "WEB DESIG |";
+  }
+  46% {
+    content: "WEB DESIGN |";
+  }
+  47% {
+    content: "WEB DESIGNE |";
+  }
+  48% {
+    content: "WEB DESIGNER |";
+  }
+  49% {
+    content: "WEB DESIGNE |";
+  }
+  50% {
+    content: "WEB DESIGN |";
+  }
+  51% {
+    content: "WEB DESIG |";
+  }
+  52% {
+    content: "WEB DESI |";
+  }
+  53% {
+    content: "WEB DES |";
+  }
+  54% {
+    content: "WEB DE |";
+  }
+  55% {
+    content: "WEB  |";
+  }
+  56% {
+    content: "WE |";
+  }
+  57% {
+    content: "W |";
+  }
+  58% {
+    content: " |";
+  }
+  59% {
+    content: "F |";
+  }
+  60% {
+    content: "FRO |";
+  }
+  61% {
+    content: "FRONT |";
+  }
+  62% {
+    content: "FRONT E |";
+  }
+  63% {
+    content: "FRONT END |";
+  }
+  64% {
+    content: "FRONT END D |";
+  }
+  65% {
+    content: "FRONT END DEV |";
+  }
+  66% {
+    content: "FRONT END DEVEL |";
+  }
+  67% {
+    content: "FRONT END DEVELOP |";
+  }
+  68% {
+    content: "FRONT END DEVELOPER |";
+  }
+  69% {
+    content: "FRONT END DEVELOP |";
+  }
+  70% {
+    content: "FRONT END DEVEL |";
+  }
+  70% {
+    content: "FRONT END DEV |";
+  }
+  72% {
+    content: "FRONT END D |";
+  }
+  73% {
+    content: "FRONT END |";
+  }
+  74% {
+    content: "FRONT  |";
+  }
+  75% {
+    content: "FRON |";
+  }
+  76% {
+    content: "FR |";
+  }
+  77% {
+    content: "F |";
+  }
+  78% {
+    content: " |";
+  }
+  /* Graphic Designer */
+  79% {
+    content: "G |";
+  }
+  80% {
+    content: "GRA |";
+  }
+  81% {
+    content: "GRAPH |";
+  }
+  82% {
+    content: "GRAPHIC |";
+  }
+  83% {
+    content: "GRAPHIC D |";
+  }
+  84% {
+    content: "GRAPHIC DES |";
+  }
+  85% {
+    content: "GRAPHIC DESIG |";
+  }
+  86% {
+    content: "GRAPHIC DESIGNE |";
+  }
+  87% {
+    content: "GRAPHIC DESIGNER |";
+  }
+  88% {
+    content: "GRAPHIC DESIGNER |";
+  }
+  89% {
+    content: "GRAPHIC DESIGN |";
+  }
+  91% {
+    content: "GRAPHIC DESI |";
+  }
+  93% {
+    content: "GRAPHIC DE |";
+  }
+  95% {
+    content: "GRAPHIC  |";
+  }
+  97% {
+    content: "GRAPHI |";
+  }
+  98% {
+    content: "GRAP |";
+  }
+  99% {
+    content: "GR |";
+  }
+  100% {
+    content: " |";
+  }
+}
+
+/* to set scroll in html & body */
+html,
+body {
+  scroll-behavior: unset;
+}
+
+/* to control nav in jQ */
+nav {
+  transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -ms-transition: 0.5s all;
+  -o-transition: 0.5s all;
+}
+
+/* button to go to top JQ*/
+.myIcon {
+  width: 30px;
+  height: 30px;
+  color: white;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background-color: red;
+
+  /* pointer */
+  cursor: pointer;
+
+  /* use flex */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  /* place of it */
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+
+  /* hide it to display with JQ */
+  display: none;
+  z-index: 999999999;
+}
+
+#loading {
+  /* to cover site*/
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 99999999;
+}
+/* import css spinier*/
+.lds-facebook {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+  margin: 300px;
+}
+.lds-facebook div {
+  display: inline-block;
+  position: absolute;
+  left: 8px;
+  width: 16px;
+  background: #fff;
+  animation: lds-facebook 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+}
+.lds-facebook div:nth-child(1) {
+  left: 8px;
+  animation-delay: -0.24s;
+}
+.lds-facebook div:nth-child(2) {
+  left: 32px;
+  animation-delay: -0.12s;
+}
+.lds-facebook div:nth-child(3) {
+  left: 56px;
+  animation-delay: 0;
+}
+@keyframes lds-facebook {
+  0% {
+    top: 8px;
+    height: 64px;
+  }
+  50%,
+  100% {
+    top: 24px;
+    height: 32px;
+  }
+}
+
+/* sideBar */
+#sideBar {
+  /*align-items: flex-start;  /* to edit stretch from element*/
+  display: flex;
+  /* background-color: tomato; */
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 99999999999;
+}
+.sideBar-inner {
+  background-color: #b0bcf6;
+  padding: 10px;
+  overflow: auto;
+}
+#sideBar i {
+  transform: translateY(100%); /* to move element*/
+  align-self: flex-start;
+  background-color: #ff206e;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px;
+  margin-top: 120%;
+  -webkit-transform: translateY(100%);
+  -moz-transform: translateY(100%);
+  -ms-transform: translateY(100%);
+  -o-transform: translateY(100%);
+}
+.color-box {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background-color: tomato;
+}
+
+/* img to website */
+.img-item {
+  width: 160px;
+  height: 100px;
+  cursor: pointer;
+}
+
+/* hide bar*/
+.it {
+  cursor: pointer;
+}
+.it h3 {
+  background-color: #c8cde4;
+  font-size: 1.5rem;
+}
+
+.pre-footer {
+  background: url(../8d06597d68b8aa95b5779848cf806d76.jpg);
+  /* background-size: cover; */
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #0078ff;
+  font-weight: 500;
+}
+h3 {
+  font-size: 1rem;
+}
+@media (max-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    background-color: #c8cde4;
+    text-align: center;
+  }
+}
+
+.timer {
+  background: url(../photo/ass51.jpg);
+  color: #cb0e0e;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-position: center center;
+
+  align-items: center;
+  margin: auto;
+  padding: 30px;
+  font-size: 2rem;
+}
+
+.timer span {
+  border: 2px solid #0078ff;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
